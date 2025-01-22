@@ -1,2 +1,2 @@
 # Deepseek-R1
-Distrilattion method of R1 Deepseek 
+Distillation  method of R1 Deepseek 
